@@ -16,3 +16,18 @@ Sprint | Previsão | Status| Histórico|
 |02| 08/11/2023 | A fazer|[Ver Diretório](link) | 
 |03| 29/11/2023 | A fazer |[Ver Diretório](link)  | 
 |Feira de Soluções|12/12/2023 |A fazer |[Ver Diretório](link) | 
+
+# Equipe
+
+<p align="center">
+ <img style="border-radius: 50%;" src="https://i.pinimg.com/originals/ff/a0/9a/ffa09aec412db3f54deadf1b3781de2a.png" width="150px;" alt=""/>
+ <img style="border-radius: 50%;" src="https://i.pinimg.com/originals/ff/a0/9a/ffa09aec412db3f54deadf1b3781de2a.png" width="150px;" alt=""/>
+ <img style="border-radius: 50%;" src="https://i.pinimg.com/originals/ff/a0/9a/ffa09aec412db3f54deadf1b3781de2a.png" width="150px;" alt=""/>
+ <img style="border-radius: 50%;" src="https://i.pinimg.com/originals/ff/a0/9a/ffa09aec412db3f54deadf1b3781de2a.png" width="150px;" alt=""/>
+</p>
+<p align="center">
+ <img style="border-radius: 50%;" src="https://i.pinimg.com/originals/ff/a0/9a/ffa09aec412db3f54deadf1b3781de2a.png" width="150px;" alt=""/>
+ <img style="border-radius: 50%;" src="https://i.pinimg.com/originals/ff/a0/9a/ffa09aec412db3f54deadf1b3781de2a.png" width="150px;" alt=""/>
+ <img style="border-radius: 50%;" src="https://i.pinimg.com/originals/ff/a0/9a/ffa09aec412db3f54deadf1b3781de2a.png" width="150px;" alt=""/>
+ <img style="border-radius: 50%;" src="https://i.pinimg.com/originals/ff/a0/9a/ffa09aec412db3f54deadf1b3781de2a.png" width="150px;" alt=""/>
+</p>
