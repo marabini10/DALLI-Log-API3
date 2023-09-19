@@ -61,6 +61,13 @@ Este projeto tem como objetivo compreender profundamente os processos de distrib
 
 O Power BI nos permite monitorar e comunicar o progresso do projeto de forma eficaz, fornecendo uma representação visual das métricas-chave, tendências e resultados. Isso ajuda a equipe e as partes interessadas a compreenderem o impacto das decisões tomadas e a identificar áreas de melhoria.
 
+ ### Google Drive
+ O Google Drive é uma ferramenta para apoiar o desenvolvimento do projeto, atuando como um meio de compartilhamento interno de arquivos entre os membros da equipe. Além disso, também serve como repositório para armazenar os vídeos dos workshops realizados internamente pela equipe, garantindo acesso vitalício a esses recursos. Esta plataforma não apenas facilita a colaboração eficiente, mas também promove a organização e a preservação do conhecimento acumulado ao longo do tempo, tornando-se uma parte fundamental do nosso processo de trabalho.
+
+## Gráfico Burndown
+
+![image](https://github.com/marabini10/DALLI-Log-API3/assets/113735122/be155501-e3f9-4f80-9f4c-b7a668272e24)
+
 
   Regras de Negócio
 - 
@@ -140,3 +147,8 @@ Com base em pesquisa entre os integrantes da equipe.
 |  Team Member  | Isabelle Gomes       |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/)          |
 |  Team Member  | Larissa Nascimento       |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/)          |
 |  Team Member  | Luiz H. Tozi       |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/)          |
+
+
+
+
+
