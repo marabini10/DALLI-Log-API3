@@ -5,6 +5,17 @@
 # DALLI Logística - Aprendizado por Projeto Integrado (API) 3º Semestre
 Este repositório abriga o projeto de Aprendizado por Projeto Integrado (API) de Logística desenvolvido pela equipe acadêmica da Fatec São José dos Campos. Nossa missão é aplicar os conhecimentos adquiridos durante o curso para resolver desafios logísticos do mundo real, combinando teoria e prática de forma integrada.
 
+# Índice
+
+* [Projeto](https://github.com/marabini10/DALLI-Log-API3#projeto-api)
+* [Equipe](https://github.com/marabini10/DALLI-Log-API3#equipe)
+* [Objetivo do Projeto](https://github.com/marabini10/DALLI-Log-API3#objetivo-do-projeto)
+* [Tecnologias Usadas](https://github.com/marabini10/DALLI-Log-API3#tecnologias-utilizadas)
+* [Burndown](https://github.com/marabini10/DALLI-Log-API3#gr%C3%A1fico-burndown)
+* [Regras de Negócio](https://github.com/marabini10/DALLI-Log-API3#regras-de-neg%C3%B3cio)
+* [Desenvolvimento das Sprints](https://github.com/marabini10/DALLI-Log-API3#desenvolvimento-das-sprints)
+* [Competências desenvolvidas](https://github.com/marabini10/DALLI-Log-API3#compet%C3%AAncias-desenvolvidas)
+* [Autores](https://github.com/marabini10/DALLI-Log-API3#autores)
 
 # Projeto (API) 
 Nosso projeto tem como objetivo central a reestruturação dos eixos de distribuição de uma empresa com o intuito de otimizar os custos operacionais. Abraçamos uma abordagem inovadora e tecnológica, alavancando ferramentas poderosas como Python, Power BI e SQL para fornecer soluções eficazes e baseadas em dados. Este projeto está sendo conduzido sob a metodologia ágil Scrum, garantindo flexibilidade, colaboração e uma entrega iterativa.
