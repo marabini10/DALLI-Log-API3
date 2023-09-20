@@ -101,11 +101,12 @@ Requisitos não funcionais
 #### Sprint 0. Construção do Backlog e estrutura de documentações do projeto
 - [x] Reunião de definição de Persona, Funcionalidades e História de Usuários;
 - [x] Reunião de definição inicial de PBI's;
-- [ ] Workshop interno sobre GitHub e estruturação do repositório;
+- [x] Workshop interno sobre GitHub e estruturação do repositório;
 - [ ] Backlog Refinement;
 - [ ] Estruturação do Backlog no JIRA Softwre;
-- [ ] Definicão de entrega para Sprint 1 e separação de responsabilidades;
+- [ ] Atualização JIRA - Sprint 0;
 - [ ] Integração ao Google Drive para compartilhamento interno da equipe;
+- [ ] Abastecimento GitHub - Sprint 0
 - [ ] Finalize e aprovação.
 
 #### Sprint 1. *Em Breve*
