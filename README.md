@@ -78,7 +78,7 @@ O Power BI nos permite monitorar e comunicar o progresso do projeto de forma efi
 
 ## Gráfico Burndown
 
-![image](https://github.com/marabini10/DALLI-Log-API3/assets/113735122/be155501-e3f9-4f80-9f4c-b7a668272e24)
+![image](https://github.com/marabini10/DALLI-Log-API3/assets/113735122/92a522f8-1ce8-4714-9266-1f5a90a1c733)
 
 
   Regras de Negócio
