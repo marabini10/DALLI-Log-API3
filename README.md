@@ -1,4 +1,4 @@
-<p align="center">
+<p>
  <img src="https://i.imgur.com/WgfLsIZ.png"/>
 </p>
 
@@ -34,7 +34,7 @@ Sprint | Previsão | Status| Histórico|
 <p align="center">
  <img style="border-radius: 50%;" src="https://i.pinimg.com/originals/ff/a0/9a/ffa09aec412db3f54deadf1b3781de2a.png" width="150px;" alt=""/>
  <img style="border-radius: 50%;" src="https://i.pinimg.com/originals/ff/a0/9a/ffa09aec412db3f54deadf1b3781de2a.png" width="150px;" alt=""/>
- <img style="border-radius: 50%;" src="https://i.pinimg.com/originals/ff/a0/9a/ffa09aec412db3f54deadf1b3781de2a.png" width="150px;" alt=""/>
+ <img style="border-radius: 50%;" src="https://github.com/marabini10/DALLI-Log-API3/assets/113735122/72b9daf7-1815-423a-8b4c-e737e27a3884" width="150px;" alt=""/>
  <img style="border-radius: 50%;" src="https://i.pinimg.com/originals/ff/a0/9a/ffa09aec412db3f54deadf1b3781de2a.png" width="150px;" alt=""/>
 </p>
 <p align="center">
@@ -152,7 +152,7 @@ Com base em pesquisa entre os integrantes da equipe.
 # Autores
 |    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
 | :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| Product Owner |   Diego Marabini       |     [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/)              |
+| Product Owner |   Diego Marabini       |     [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/diego-marabini-8a3188187/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/marabini10)              |
 | Scrum Master  | Ana Beatriz |      [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/)     |
 | Team Member   | Ayrton Nogueira             |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Nepoun)        |
 |  Team Member  | Eduardo Lima                 |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/)        |
