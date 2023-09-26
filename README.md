@@ -22,12 +22,12 @@ Nosso projeto tem como objetivo central a reestruturação dos eixos de distribu
 
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
-|Kick Off | 06/09/2023 | Concluido| [Ver Diretório](link) | 
-|00 | 27/09/2023 | Em progresso| [Ver Diretório](link) | 
-|01|  18/10/2023| A Fazer |[Ver Diretório](link) | 
-|02| 08/11/2023 | A fazer|[Ver Diretório](link) | 
-|03| 29/11/2023 | A fazer |[Ver Diretório](link)  | 
-|Feira de Soluções|12/12/2023 |A fazer |[Ver Diretório](link) | 
+|Kick Off | 06/09/2023 | Concluido| [Ver Arquivo](https://github.com/marabini10/DALLI-Log-API3/blob/main/Sprint%200/Kick-off%20API%203N.pptx) | 
+|00 | 27/09/2023 | Em progresso| [Ver Diretório](https://github.com/marabini10/DALLI-Log-API3/tree/main/Sprint%200) | 
+|01|  18/10/2023| A Fazer |[Ver Diretório](https://github.com/marabini10/DALLI-Log-API3/tree/main/Sprint%201) | 
+|02| 08/11/2023 | A fazer|[Ver Diretório](https://github.com/marabini10/DALLI-Log-API3/tree/main/Sprint%202) | 
+|03| 29/11/2023 | A fazer |[Ver Diretório](https://github.com/marabini10/DALLI-Log-API3/tree/main/Sprint%203)  | 
+|Feira de Soluções|12/12/2023 |A fazer |[Ver Apresentação]() | 
 
 # Equipe
 
