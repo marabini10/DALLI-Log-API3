@@ -103,9 +103,9 @@ Requisitos não funcionais
 - [x] Reunião de definição inicial de PBI's;
 - [x] Workshop interno sobre GitHub e estruturação do repositório;
 - [ ] Backlog Refinement;
-- [ ] Estruturação do Backlog no JIRA Softwre;
+- [x] Estruturação do Backlog no JIRA Softwre;
 - [ ] Atualização JIRA - Sprint 0;
-- [ ] Integração ao Google Drive para compartilhamento interno da equipe;
+- [x] Integração ao Google Drive para compartilhamento interno da equipe;
 - [ ] Abastecimento GitHub - Sprint 0
 - [ ] Finalize e aprovação.
 
