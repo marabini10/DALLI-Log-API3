@@ -127,7 +127,7 @@ Com base em pesquisa entre os integrantes da equipe.
 | GitHub | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
 | Gestão de Projetos | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
 | Scrum Master | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Prodct Owner | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Product Owner | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
 | Python | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
 | Power BI | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
 | SQL | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
