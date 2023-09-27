@@ -108,7 +108,7 @@ Requisitos não funcionais
 - [x] Atualização JIRA - Sprint 0;
 - [x] Integração ao Google Drive para compartilhamento interno da equipe;
 - [x] Abastecimento GitHub - Sprint 0
-- [ ] Finalize e aprovação.
+- [x] Conclusão e aprovação.
 
 #### Sprint 1. *Em Breve*
 
