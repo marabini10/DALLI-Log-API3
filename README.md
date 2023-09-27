@@ -35,13 +35,13 @@ Sprint | Previsão | Status| Histórico|
  <img style="border-radius: 50%;" src="https://github.com/marabini10/DALLI-Log-API3/assets/113735122/71f13cf1-2403-46a8-8bd4-24e76c79ba00" width="150px;" alt=""/>
  <img style="border-radius: 50%;" src="https://i.pinimg.com/originals/ff/a0/9a/ffa09aec412db3f54deadf1b3781de2a.png" width="150px;" alt=""/>
  <img style="border-radius: 50%;" src="https://github.com/marabini10/DALLI-Log-API3/assets/113735122/72b9daf7-1815-423a-8b4c-e737e27a3884" width="150px;" alt=""/>
- <img style="border-radius: 50%;" src="https://i.pinimg.com/originals/ff/a0/9a/ffa09aec412db3f54deadf1b3781de2a.png" width="150px;" alt=""/>
+ <img style="border-radius: 50%;" src="https://github.com/marabini10/DALLI-Log-API3/assets/113735122/d5f32fdc-16a8-4cd2-999c-17b05cf0cd39" width="150px;" alt=""/>
 </p>
 <p align="center">
- <img style="border-radius: 50%;" src="https://i.pinimg.com/originals/ff/a0/9a/ffa09aec412db3f54deadf1b3781de2a.png" width="150px;" alt=""/>
+ <img style="border-radius: 50%;" src="https://github.com/marabini10/DALLI-Log-API3/assets/113735122/e22c6ccf-0449-4fa2-817e-8491010d36db" width="150px;" alt=""/>
  <img style="border-radius: 50%;" src="https://github.com/marabini10/DALLI-Log-API3/assets/113735122/3f956c8f-4bfa-4d99-9e8b-a4ca5626087c" width="150px;" alt=""/>
  <img style="border-radius: 50%;" src="https://github.com/marabini10/DALLI-Log-API3/assets/113735122/63918800-4329-4e90-b6d5-bb1af91c0044" width="150px;" alt=""/>
- <img style="border-radius: 50%;" src="https://i.pinimg.com/originals/ff/a0/9a/ffa09aec412db3f54deadf1b3781de2a.png" width="150px;" alt=""/>
+ <img style="border-radius: 50%;" src="https://github.com/marabini10/DALLI-Log-API3/assets/113735122/e8ab5a5e-2d2d-435d-a5cd-0ba6a9c85596" width="150px;" alt=""/>
 </p>
 
 # Objetivo do Projeto
