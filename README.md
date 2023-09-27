@@ -104,9 +104,9 @@ Requisitos não funcionais
 - [x] Workshop interno sobre GitHub e estruturação do repositório;
 - [X] Backlog Refinement;
 - [x] Estruturação do Backlog no JIRA Softwre;
-- [ ] Atualização JIRA - Sprint 0;
+- [x] Atualização JIRA - Sprint 0;
 - [x] Integração ao Google Drive para compartilhamento interno da equipe;
-- [ ] Abastecimento GitHub - Sprint 0
+- [x] Abastecimento GitHub - Sprint 0
 - [ ] Finalize e aprovação.
 
 #### Sprint 1. *Em Breve*
