@@ -102,7 +102,7 @@ Requisitos não funcionais
 - [x] Reunião de definição de Persona, Funcionalidades e História de Usuários;
 - [x] Reunião de definição inicial de PBI's;
 - [x] Workshop interno sobre GitHub e estruturação do repositório;
-- [ ] Backlog Refinement;
+- [X] Backlog Refinement;
 - [x] Estruturação do Backlog no JIRA Softwre;
 - [ ] Atualização JIRA - Sprint 0;
 - [x] Integração ao Google Drive para compartilhamento interno da equipe;
