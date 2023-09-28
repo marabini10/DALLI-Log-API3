@@ -29,20 +29,6 @@ Sprint | Previsão | Status| Histórico|
 |03| 29/11/2023 | A fazer |[Ver Diretório](https://github.com/marabini10/DALLI-Log-API3/tree/main/Sprint%203)  | 
 |Feira de Soluções|12/12/2023 |A fazer |[Ver Apresentação]() | 
 
-# Equipe
-
-<p align="center">
- <img style="border-radius: 50%;" src="https://github.com/marabini10/DALLI-Log-API3/assets/113735122/71f13cf1-2403-46a8-8bd4-24e76c79ba00" width="150px;" alt=""/>
- <img style="border-radius: 50%;" src="https://github.com/marabini10/DALLI-Log-API3/assets/113735122/1a1d501b-2376-41fd-9d8c-3f8c3cd755ce" width="150px;" alt=""/>
- <img style="border-radius: 50%;" src="https://github.com/marabini10/DALLI-Log-API3/assets/113735122/72b9daf7-1815-423a-8b4c-e737e27a3884" width="150px;" alt=""/>
- <img style="border-radius: 50%;" src="https://github.com/marabini10/DALLI-Log-API3/assets/113735122/d5f32fdc-16a8-4cd2-999c-17b05cf0cd39" width="150px;" alt=""/>
-</p>
-<p align="center">
- <img style="border-radius: 50%;" src="https://github.com/marabini10/DALLI-Log-API3/assets/113735122/e22c6ccf-0449-4fa2-817e-8491010d36db" width="150px;" alt=""/>
- <img style="border-radius: 50%;" src="https://github.com/marabini10/DALLI-Log-API3/assets/113735122/3f956c8f-4bfa-4d99-9e8b-a4ca5626087c" width="150px;" alt=""/>
- <img style="border-radius: 50%;" src="https://github.com/marabini10/DALLI-Log-API3/assets/113735122/63918800-4329-4e90-b6d5-bb1af91c0044" width="150px;" alt=""/>
- <img style="border-radius: 50%;" src="https://github.com/marabini10/DALLI-Log-API3/assets/113735122/e8ab5a5e-2d2d-435d-a5cd-0ba6a9c85596" width="150px;" alt=""/>
-</p>
 
 # Objetivo do Projeto
 Este projeto tem como objetivo compreender profundamente os processos de distribuição existentes na empresa e identificar áreas onde melhorias podem ser feitas, visando:
@@ -150,7 +136,21 @@ Com base em pesquisa entre os integrantes da equipe.
 
 </details>
 
-# Autores
+# Equipe
+
+<p align="center">
+ <img style="border-radius: 50%;" src="https://github.com/marabini10/DALLI-Log-API3/assets/113735122/72b9daf7-1815-423a-8b4c-e737e27a3884" width="150px;" alt=""/>
+ <img style="border-radius: 50%;" src="https://github.com/marabini10/DALLI-Log-API3/assets/113735122/71f13cf1-2403-46a8-8bd4-24e76c79ba00" width="150px;" alt=""/>
+ <img style="border-radius: 50%;" src="https://github.com/marabini10/DALLI-Log-API3/assets/113735122/1a1d501b-2376-41fd-9d8c-3f8c3cd755ce" width="150px;" alt=""/>
+ <img style="border-radius: 50%;" src="https://github.com/marabini10/DALLI-Log-API3/assets/113735122/d5f32fdc-16a8-4cd2-999c-17b05cf0cd39" width="150px;" alt=""/>
+</p>
+<p align="center">
+ <img style="border-radius: 50%;" src="https://github.com/marabini10/DALLI-Log-API3/assets/113735122/e22c6ccf-0449-4fa2-817e-8491010d36db" width="150px;" alt=""/>
+ <img style="border-radius: 50%;" src="https://github.com/marabini10/DALLI-Log-API3/assets/113735122/3f956c8f-4bfa-4d99-9e8b-a4ca5626087c" width="150px;" alt=""/>
+ <img style="border-radius: 50%;" src="https://github.com/marabini10/DALLI-Log-API3/assets/113735122/63918800-4329-4e90-b6d5-bb1af91c0044" width="150px;" alt=""/>
+ <img style="border-radius: 50%;" src="https://github.com/marabini10/DALLI-Log-API3/assets/113735122/e8ab5a5e-2d2d-435d-a5cd-0ba6a9c85596" width="150px;" alt=""/>
+</p>
+
 |    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
 | :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | Product Owner |   Diego Marabini       |     [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/diego-marabini-8a3188187/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/marabini10)              |
