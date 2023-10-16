@@ -102,11 +102,11 @@ Requisitos não funcionais
 #### Sprint 1. 
 - [x] Organização de dados de fábricas, clientes e rotas no banco de dados;
 - [x] Importar dados gerais do SQL para o Power BI;
-- [ ] Modelar dados vinculando códigos entre correlacionados;
+- [x] Modelar dados vinculando códigos entre correlacionados;
 - [ ] Criação e definição de tela de produtividade mensal;
 - [ ] Criação e definição de tela de custos por KM das rotas;
 - [ ] Criação e definição de tela de custos por Unidade;
-- [ ] Criação de layout para tela do Dashboard;
+- [x] Criação de layout para tela do Dashboard;
 - [ ] Adicionar filtros e ferramentas interativas ao dashboard;
 - [ ] Conclusão e aprovação.
 
