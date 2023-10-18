@@ -125,14 +125,14 @@ Com base em pesquisa entre os integrantes da equipe.
   
 | Tecnologia/Metodologia | Classificação |
 | ---------------------- | ------------- |
-| GitHub | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Gestão de Projetos | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
-| Scrum Master | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Product Owner | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Python | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Power BI | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| SQL | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Jira Software | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| GitHub | ★ ★ ★ ☆ ☆ |
+| Gestão de Projetos | ★ ★ ★ ★ ☆ |
+| Scrum Master | ★ ★ ★ ★ ★  |
+| Product Owner | ★ ★ ★ ★ ★ |
+| Python | ★ ★ ★ ★ ☆ |
+| Power BI | ★ ★ ★ ★ ☆ |
+| SQL | ★ ★ ★ ★ ☆ |
+| Jira Software | ★ ★ ★ ☆ ☆ |
 </details>
 
 #### Soft Skill (saber comportamental)
@@ -141,12 +141,12 @@ Com base em pesquisa entre os integrantes da equipe.
 
 | Habilidades | Classificação |
 | ---------------------- | ------------- |
-| Colaboração | ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ ☆ |
-| Proatividade| ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
-| Pensamento Crítico | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Gerenciamento de Tempo | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Adaptabilidade | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Resiliência | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Colaboração | ★ ★ ★ ★ ☆ |
+| Proatividade| ★ ★ ★ ☆ ☆ |
+| Pensamento Crítico | ★ ★ ★ ★ ★ |
+| Gerenciamento de Tempo | ★ ★ ★ ☆ ☆ |
+| Adaptabilidade | ★ ★ ★ ★ ☆ |
+| Resiliência | ★ ★ ★ ★ ★ |
 
 </details>
 
