@@ -24,8 +24,8 @@ Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
 |Kick Off | 06/09/2023 | Concluido| [Ver Arquivo](https://github.com/marabini10/DALLI-Log-API3/blob/main/Sprint%200/Kick-off%20API%203N.pptx) | 
 |00 | 27/09/2023 | Concluido| [Ver Diretório](https://github.com/marabini10/DALLI-Log-API3/tree/main/Sprint%200) | 
-|01|  18/10/2023| Em Progresso |[Ver Diretório](https://github.com/marabini10/DALLI-Log-API3/tree/main/Sprint%201) | 
-|02| 08/11/2023 | A fazer|[Ver Diretório](https://github.com/marabini10/DALLI-Log-API3/tree/main/Sprint%202) | 
+|01|  18/10/2023| Concluído |[Ver Diretório](https://github.com/marabini10/DALLI-Log-API3/tree/main/Sprint%201) | 
+|02| 08/11/2023 | Em Progresso|[Ver Diretório](https://github.com/marabini10/DALLI-Log-API3/tree/main/Sprint%202) | 
 |03| 29/11/2023 | A fazer |[Ver Diretório](https://github.com/marabini10/DALLI-Log-API3/tree/main/Sprint%203)  | 
 |Feira de Soluções|12/12/2023 |A fazer |[Ver Apresentação]() | 
 
@@ -66,8 +66,11 @@ O Power BI nos permite monitorar e comunicar o progresso do projeto de forma efi
 
    #### [Sprint 0](https://github.com/marabini10/DALLI-Log-API3/tree/main/Sprint%200#gr%C3%A1fico-burndown)
 
-   #### Sprint 1:
-![image](https://github.com/marabini10/DALLI-Log-API3/assets/113735122/820b3568-fd61-437f-ad10-8dbef0367afc)
+   #### [Sprint 1](https://github.com/marabini10/DALLI-Log-API3/tree/main/Sprint%201#gr%C3%A1fico-burndown)
+
+   #### Sprint 2:
+   ![image](https://github.com/marabini10/DALLI-Log-API3/assets/113735122/8f08ae90-ef52-4995-9fc1-b402542683b5)
+
 
 
 
@@ -110,9 +113,16 @@ Requisitos não funcionais
 - [x] Criação e definição de tela de custos por Unidade;
 - [x] Criação de layout para tela do Dashboard;
 - [x] Adicionar filtros e ferramentas interativas ao dashboard;
-- [ ] Conclusão e aprovação.
+- [x] Conclusão e aprovação.
 
-#### Sprint 2. *Em Breve*
+#### Sprint 2.
+- [ ] Criação de tela de devoluções no Power BI;
+- [ ] Criação de tela de produtividade dos veículos no Power BI;
+- [ ] Aplicação do script de otimização;
+- [ ] Criação de tela de comparativo da otimização no Power BI;
+- [ ] Análise de resultados gerados da otimização;
+- [ ] Análise de otimização por clientes e clusters;
+- [ ] Conclusão e aprovação.
 
 #### Sprint 3. *Em Breve*
 
