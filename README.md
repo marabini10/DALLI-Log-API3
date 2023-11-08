@@ -117,13 +117,13 @@ Requisitos não funcionais
 - [x] Conclusão e aprovação.
 
 #### Sprint 2.
-- [ ] Criação de tela de devoluções no Power BI;
-- [ ] Criação de tela de produtividade dos veículos no Power BI;
-- [ ] Aplicação do script de otimização;
-- [ ] Criação de tela de comparativo da otimização no Power BI;
-- [ ] Análise de resultados gerados da otimização;
-- [ ] Análise de otimização por clientes e clusters;
-- [ ] Conclusão e aprovação.
+- [x] Criação de tela de devoluções no Power BI;
+- [x] Criação de tela de produtividade dos veículos no Power BI;
+- [x] Aplicação do script de otimização;
+- [x] Criação de tela de comparativo da otimização no Power BI;
+- [x] Análise de resultados gerados da otimização;
+- [x] Análise de otimização por clientes e clusters;
+- [x] Conclusão e aprovação.
 
 #### Sprint 3. *Em Breve*
 
