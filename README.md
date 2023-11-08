@@ -69,7 +69,8 @@ O Power BI nos permite monitorar e comunicar o progresso do projeto de forma efi
    #### [Sprint 1](https://github.com/marabini10/DALLI-Log-API3/tree/main/Sprint%201#gr%C3%A1fico-burndown)
 
    #### Sprint 2:
-   ![image](https://github.com/marabini10/DALLI-Log-API3/assets/113735122/8f08ae90-ef52-4995-9fc1-b402542683b5)
+   ![image](https://github.com/marabini10/DALLI-Log-API3/assets/113735122/0f1e2ca1-1ef3-405e-80c5-1ed6649eaca8)
+
 
 
 
