@@ -125,7 +125,13 @@ Requisitos não funcionais
 - [x] Análise de otimização por clientes e clusters;
 - [x] Conclusão e aprovação.
 
-#### Sprint 3. *Em Breve*
+#### Sprint 3. 
+- [x] Criação de tela de oimização no Power BI;
+- [x] Criação de tabela com resultados gerados da otimização;
+- [x] Análise de coerência da otimização;
+- [x] Definição final do dashboard a ser apresentado;
+- [x] Correção de bugs;
+- [x] Conclusão e aprovação.
 
 # Competências desenvolvidas
 Com base em pesquisa entre os integrantes da equipe.
