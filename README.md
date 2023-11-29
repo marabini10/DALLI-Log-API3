@@ -25,8 +25,8 @@ Sprint | Previsão | Status| Histórico|
 |Kick Off | 06/09/2023 | Concluido| [Ver Arquivo](https://github.com/marabini10/DALLI-Log-API3/blob/main/Sprint%200/Kick-off%20API%203N.pptx) | 
 |00 | 27/09/2023 | Concluido| [Ver Diretório](https://github.com/marabini10/DALLI-Log-API3/tree/main/Sprint%200) | 
 |01|  18/10/2023| Concluído |[Ver Diretório](https://github.com/marabini10/DALLI-Log-API3/tree/main/Sprint%201) | 
-|02| 08/11/2023 | Em Progresso|[Ver Diretório](https://github.com/marabini10/DALLI-Log-API3/tree/main/Sprint%202) | 
-|03| 29/11/2023 | A fazer |[Ver Diretório](https://github.com/marabini10/DALLI-Log-API3/tree/main/Sprint%203)  | 
+|02| 08/11/2023 | Concluído |[Ver Diretório](https://github.com/marabini10/DALLI-Log-API3/tree/main/Sprint%202) | 
+|03| 29/11/2023 | Em Progresso |[Ver Diretório](https://github.com/marabini10/DALLI-Log-API3/tree/main/Sprint%203)  | 
 |Feira de Soluções|12/12/2023 |A fazer |[Ver Apresentação]() | 
 
 
