@@ -10,7 +10,7 @@ Nosso projeto tem como objetivo central a reestruturação dos eixos de distribu
 
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
-|Kick Off | 06/09/2023 | Concluido| [Ver Diretório](link) | 
+|Kick Off | 06/09/2023 | Concluido| [Ver Arquivo](link) | 
 |00 | 27/09/2023 | Em progresso| [Ver Diretório](link) | 
 |01|  18/10/2023| A Fazer |[Ver Diretório](link) | 
 |02| 08/11/2023 | A fazer|[Ver Diretório](link) | 
