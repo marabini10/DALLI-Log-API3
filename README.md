@@ -1,5 +1,5 @@
 # Projeto Interdisciplinar 3 - Análise de Distribuição de Mercadorias (DALLI Logística)
-FATEC São José dos Campos - Prof. Jessen Vidal - 4º Semestre de Logística
+FATEC São José dos Campos - Prof. Jessen Vidal - 3º Semestre de Logística
 
 <p align="center">
  <img src="https://i.imgur.com/WgfLsIZ.png"/>
